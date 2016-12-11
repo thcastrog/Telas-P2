@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Telas</string>
+    <string name="bem_vindo_sistema_de_estudos">Bem vindo - Sistema de estudos !</string>
+    <string name="email_do_usu_rio">Email do usuário</string>
+    <string name="senha">senha</string>
+    <string name="email">Email</string>
+    <string name="acessar">Acessar</string>
+    <string name="limpar">Limpar</string>
+    <string name="introdu_o_aula">Introdução Aula</string>
+    <string name="exerc_cio_feito">Exercício feito</string>
+    <string name="laborat_rio_enviado">Laboratório enviado ?</string>
+    <string name="progresso">Progresso</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome">Nome</string>
+    <string name="matricula">Matricula</string>
+    <string name="Email2">Email</string>
+    <string name="conta_github">Conta GitHub</string>
+    <string name="progresso_das_aulas">Progresso das aulas</string>
+    <string name="aulas_dadas">Aulas dadas</string>
+    <string name="exerc_cios_feitos">Exercícios feitos</string>
+    <string name="laborat_rios_enviados_ao_github">Laboratórios enviados ao GitHub</string>
+    <string name="voltar">Voltar</string>
+    <string name="Progresso">Progresso</string>
+</resources>
